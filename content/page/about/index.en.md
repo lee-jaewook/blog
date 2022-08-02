@@ -1,5 +1,5 @@
 ---
-title: 关于
+title: Sample 1
 menu:
     main: 
         weight: -90
