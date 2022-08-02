@@ -1,6 +1,6 @@
 ---
 title: "한글"
-description: "This is an example category"
+description: "This is an 한글 category"
 slug: "한글 slug"
 image: "sejong.jpeg"
 style:
