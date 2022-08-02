@@ -208,7 +208,7 @@ menu:
           name: LinkedIn
           url: https://www.linkedin.com/in/lee-jaewook/
           params:
-              icon: brand-linkedin
+              icon: brand-linkedin-s
 
 related:
     includeNewer: true
