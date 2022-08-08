@@ -5,8 +5,7 @@ date: 2020-09-09
 slug: test-korean
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 categories:
-    - Test
-    - 한글
+    - test
 ---
 
 ## Chapter 1
