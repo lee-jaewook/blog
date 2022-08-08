@@ -1,7 +1,7 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+# description: Hi there, I'm Jaewook Lee
+date: '2022-02-28'
 aliases:
   - about-us
   - about-hugo
@@ -14,6 +14,10 @@ menu:
         params:
             icon: user
 ---
+# Hi there, I'm Jaewook Lee ![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 
 Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
