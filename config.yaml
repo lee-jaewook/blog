@@ -2,7 +2,7 @@ baseurl: https://lee-jaewook.github.io
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: Tech blog
 
 languages:
     ko:
@@ -209,6 +209,12 @@ menu:
           url: https://www.linkedin.com/in/lee-jaewook/
           params:
               icon: brand-linkedin-s
+
+        - identifier: resume
+          name: LinkedIn
+          url: https://lee-jaewook.github.io/resumecard
+          params:
+              icon: link
 
 related:
     includeNewer: true
