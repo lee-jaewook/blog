@@ -14,7 +14,7 @@ menu:
         params:
             icon: user
 ---
-## Hi there, I'm Jaewook Lee
+## Hi there, I'm Jaewook Lee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm a 🧑🏻‍💻 Junior Software Enginner with backend & ML skills. I graduated from Jeonbuk National University bachelor of engineering in software engineering. I learned most of my key skills through my education, such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at university and learned a lot about a healthy work-life balance. I believe in the power of perseverance, so I have been writing github daily commit, and a post on tech blog. I'm always striving to develop in accordance with the four major declarations and 12 principles of Agile.
 Hugo makes use of a variety of open source projects including:
 
