@@ -58,7 +58,7 @@ params:
 
     sidebar:
         emoji: 🔥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: Hi, I'm a junior software engineer
         avatar:
             enabled: true
             local: true

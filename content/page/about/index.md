@@ -30,7 +30,7 @@ Hugo makes use of a variety of open source projects including:
 - Database : MySQL, MongoDB
 - Machine Learning : Python, Tensorflow, Sklearn
 
-## 💻 Projects
+### 💻 Projects
 
 | Project                                             | Description                                             | Tech Stack                           | Result                                                      |
 | --------------------------------------------------- | ------------------------------------------------------- | ------------------------------------ | ----------------------------------------------------------- |
