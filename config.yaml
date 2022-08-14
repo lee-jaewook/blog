@@ -211,7 +211,7 @@ menu:
               icon: linkedin
 
         - identifier: resume
-          name: LinkedIn
+          name: Resume
           url: https://lee-jaewook.github.io/resumecard
           params:
               icon: link
