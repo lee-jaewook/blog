@@ -5,7 +5,9 @@ date: "2022-02-28"
 aliases:
   - about-me
   - contact
+license: false
 # license: CC BY-NC-ND
+lastread: false
 # lastmod: '2022-04-23'
 menu:
   main:
@@ -36,8 +38,8 @@ Hugo makes use of a variety of open source projects including:
 
 ### 💻 Projects
 
-| Project                                             | Description                                                      | Tech Stack                         | Result                                                                                                                      |
-| --------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| BECS ITRC Student-led Creative Project              | GAN-based QoS Prediction Model in Edge Cloud System              | Python, Tensorflow, GAN            | [Published in a journal](https://koasas.kaist.ac.kr/handle/10203/290091)                                                    |
-| SIGNATURE(SIGN All transactions Using Voice REcord) | Blockchain-based oral contract support system                    | Vue.js, Docker, Blockchain         | Excellence prize                                                                                                            |
-| Brr                                                 | Communication supplementary smart watch for the hearing impaired | Android, Arduino, Bluetooth, Azure | [ICT Assistive Technology Device Contest for the Disabled encouragement prize](https://www.youtube.com/watch?v=o3dJAi9H_PI) |
+| Project                                             | Description                                                      | Tech Stack                               | Result                                                                                                                      |
+| --------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| BECS ITRC Student-led Creative Project              | GAN-based QoS Prediction Model in Edge Cloud System              | Python<br>Tensorflow<br>GAN<br>          | [Published in a journal](https://koasas.kaist.ac.kr/handle/10203/290091)                                                    |
+| SIGNATURE(SIGN All transactions Using Voice REcord) | Blockchain-based oral contract support system                    | Vue.js<br>Docker<br>Blockchain<br>       | Excellence prize                                                                                                            |
+| Brr                                                 | Communication supplementary smart watch for the hearing impaired | Android<br>Arduino<br>Bluetooth<br>Azure | [ICT Assistive Technology Device Contest for the Disabled encouragement prize](https://www.youtube.com/watch?v=o3dJAi9H_PI) |
