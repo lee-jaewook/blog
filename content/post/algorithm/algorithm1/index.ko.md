@@ -6,6 +6,8 @@ slug: algorithm
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 categories:
     - algorithm
+tags:
+    - algorithm
 ---
 
 ## Chapter 1
