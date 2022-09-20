@@ -2,8 +2,8 @@
 title: "computer science"
 description: "This is an computer science category"
 slug: "computer science slug"
-image: "orange.jpg"
+image: "rainbow.jpg"
 style:
-    background: "#2a9d8f"
-    color: "#fff"
+  background: "#2a9d8f"
+  color: "#fff"
 ---
