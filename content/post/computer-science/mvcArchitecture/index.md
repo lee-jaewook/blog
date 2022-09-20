@@ -14,7 +14,7 @@ tags:
 
 ## Intro
 
-Today, I learnd MVC Architecture in SSAFY. I write down this post to improve my understanding and organization what i learnd. Before developing the web applications, we need to have idea about design models. It that organized with java server page is seperated into model 1 and model 2.
+Today I learnd the MVC Architecture in SSAFY. I am going to write this to organize what I have learned. Before developing the web applications, we need to have idea about design models. It that organized with java server page is seperated into model 1 and model 2.
 
 ## Keywords
 
